@@ -29,7 +29,7 @@
 
 3. 스크립트를 실행합니다:
     ```bash
-    python dynamixel_control.py
+    sudo python DualMode.py
     ```
 
 ## 주요 구성 요소
