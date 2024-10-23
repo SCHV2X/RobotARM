@@ -22,7 +22,7 @@
 
 1. 필요한 라이브러리를 설치합니다:
     ```bash
-    pip install dynamixel_sdk
+    git clone https://github.com/ROBOTIS-GIT/DynamixelSDK.git
     ```
 
 2. Dynamixel 모터를 컨트롤러에 연결하고, 올바른 포트(`DEVICENAME`)를 설정합니다.
