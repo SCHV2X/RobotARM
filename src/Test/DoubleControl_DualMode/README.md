@@ -67,7 +67,8 @@
 
 ```
 포트 열기 성공 보드레이트 변경 성공
-Dynamixel#1 연결 성공 Dynamixel#2 연결 성공 아무 키나 누르면 계속 진행! (ESC를 누르면 종료)
+Dynamixel#1 연결 성공 Dynamixel#2 연결 성공
+아무 키나 누르면 계속 진행! (ESC를 누르면 종료)
 [ID:001] GoalPos:000 PresPos:005 [ID:002] GoalPos:000 PresPos:005 [ID:001] GoalPos:500 PresPos:495 [ID:002] GoalPos:500 PresPos:495 ...
 ```
 
